@@ -46,3 +46,8 @@ nnoremap <up> <nop>
 nnoremap <down> <nop>
 nnoremap <left> <nop>
 nnoremap <right> <nop>
+
+
+" some fancy movements
+nnoremap _ :m -2<cr>
+nnoremap - :m +1<cr>
