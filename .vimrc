@@ -8,7 +8,12 @@ set path+=**
 
 " colors are important
 syntax enable
+
+
+" indentation
 filetype plugin indent on
+set smartindent
+set shiftwidth=4
 
 
 " highlight the current line
